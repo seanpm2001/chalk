@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["FIXME_SELF","SELF"],"fn":["get_type_of_usize","lower_adt_size_align","lower_goal","trait_identifier"],"macro":["lower_param_map","tykind"],"mod":["env","program_lowerer"],"static":["CALLSITE","META"],"trait":["Kinded","Lower","LowerParameterMap","LowerWithEnv"]};

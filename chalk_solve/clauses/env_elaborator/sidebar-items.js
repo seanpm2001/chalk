@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["elaborate_env_clauses"],"static":["CALLSITE","META"],"struct":["EnvElaborator"]};

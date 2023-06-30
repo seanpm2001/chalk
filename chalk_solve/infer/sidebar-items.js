@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["canonicalize","instantiate","invert","ucanonicalize","unify","var"],"static":["CALLSITE","META"],"struct":["InferenceSnapshot","InferenceTable"],"trait":["ParameterEnaVariableExt"],"type":["ParameterEnaVariable"]};

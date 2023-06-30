@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["Guidance","Solution","SubstitutionResult"],"mod":["truncate"],"static":["CALLSITE","META"],"struct":["SolutionDisplay"],"trait":["Solver"]};

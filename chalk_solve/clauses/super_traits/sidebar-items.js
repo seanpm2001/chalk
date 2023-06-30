@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["go","push_trait_super_clauses","super_traits"]};
